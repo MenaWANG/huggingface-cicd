@@ -1,8 +1,8 @@
 ---
 title: english-to-latin
-emoji: 🔥
-colorFrom: pink
-colorTo: purple
+emoji: 🌈
+colorFrom: grey
+colorTo: teal
 sdk: gradio
 sdk_version: 4.24.0
 app_file: app.py
