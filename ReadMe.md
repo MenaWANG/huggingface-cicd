@@ -1,4 +1,4 @@
-title: en-la-translator
+title: english-to-latin
 emoji: 🔥
 colorFrom: pink
 colorTo: purple
